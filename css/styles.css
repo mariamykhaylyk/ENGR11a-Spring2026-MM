@@ -90,7 +90,9 @@
     scroll-behavior: smooth;
   }
 }
-
+.clickable-img {
+    cursor: zoom-in;
+}
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);

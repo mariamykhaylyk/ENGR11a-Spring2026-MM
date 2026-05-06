@@ -1,7 +1,13 @@
 **One-Handed Shoe Tying Helper Device: Snazzy Shoez**
 
 **PICTURES**  
-![][image1]![][image2]![][image3]![][image4]![][image5]
+<p align="center">
+  <img src="./assets/shoe/rep1.png" height="200"/>
+  <img src="./assets/shoe/rep2.jpg" height="200"/>
+  <img src="./assets/shoe/rep3.png" height="200"/>
+  <img src="./assets/shoe/rep4.png" height="200"/>
+  <img src="./assets/shoe/rep5.png" height="200"/>
+</p>
 
 We wanted to create a device for individuals with one functional hand that would make tying their shoes easier. Many of the existing solutions limit the options of purchasing shoes, or are very bulky and noticeable devices that appear unprofessional. Our design takes a minimalist approach to solving this problem. 
 
@@ -53,7 +59,9 @@ We wanted to create a device for individuals with one functional hand that would
 Please do these prints separately. Otherwise, stringing between the objects is likely.
 
 Link to our card instructions: [https://drive.google.com/file/d/1t5qWKtZ1hC8agN7IABwGm2w7JLdvyTPV/view?usp=sharing](https://drive.google.com/file/d/1t5qWKtZ1hC8agN7IABwGm2w7JLdvyTPV/view?usp=sharing)  
-![][image6]  
+<p align="center">
+  <img src="./assets/shoe/ShoezGuide.png" width="500"/>
+</p>
 Link to our video instructions:   
 [https://drive.google.com/file/d/1TejuMkIUAC1swpKFBUkfwEs-O8ufbhyI/view?usp=sharing](https://drive.google.com/file/d/1TejuMkIUAC1swpKFBUkfwEs-O8ufbhyI/view?usp=sharing)
 
